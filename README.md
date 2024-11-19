@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
@@ -132,3 +133,7 @@ const port = process.env.PORT || 4000;
 - [LinkedIn](https://www.linkedin.com/in/ikramdeveloper/)
 - [StackOverflow](https://stackoverflow.com/users/13859212/ikram-ul-haq)
 
+=======
+# json-server-deploy
+json server deploy for basic app
+>>>>>>> 046c5240935cab4e682f18f19d2630e4343ffacb
